@@ -1,0 +1,275 @@
+body{
+	margin:0;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+h1 {
+	font-family:arial black;
+	font-size:50px;
+	text-shadow:50px;
+	color:white;
+	background:black;
+	text-align:center;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+a {
+	text-decoration:none;
+	color:white;
+}
+
+.button:hover {
+	color:red;
+}
+
+.kr {
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+	width: 100%;
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr;
+}
+.kr img {
+	text-align:center;
+	margin: auto;
+	
+}
+.korea {
+	font-family:arial black;
+	color:white;
+	background:black;
+	font-size:20px;
+    text-align:center;
+	background-attachment:fixed;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+.eu {
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+	width: 100%;
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr;
+}
+.eu img {
+	text-align:center;
+	margin: auto;
+	
+}
+
+.europe {
+	font-family:arial black;
+	color:white;
+	background:black;
+    text-align:center;
+	font-size:20px;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+
+.na {
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+	width: 100%;
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr;
+}
+
+.na img {
+	text-align:center;
+	margin: auto;
+	
+}
+
+.america {
+	font-family:arial black;
+	color:white;
+	background:black;
+    text-align:center;
+	font-size:20px;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+
+.lpl {
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+	width: 100%;
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr;
+}
+.lpl img {
+	text-align:center;
+	margin: auto;
+	
+}
+.china {
+	font-family:arial black;
+	color:white;
+	background:black;
+	font-size:20px;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+    text-align:center;
+}
+
+.next {
+	font-family:arial black;
+	color:white;
+	font-size:30px;
+	background:black;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+    text-align:center;
+}
+
+.first {
+	font-family:arial black;
+	color:white;
+	background:black;
+	text-align:center;
+	font-size:20px;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+.second {
+	font-family:arial black;
+	color:white;
+	background:black;
+	text-align:center;background-image:url(../images/5.png);
+	background-position:center;
+	background-attachment:fixed;
+    background-size: cover;
+    background-repeat:no-repeat;
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.third {
+	font-family:arial black;
+	color:white;
+	background:black;
+	text-align:center;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.fourth {
+	font-family:arial black;
+	color:white;
+	background:black;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+	text-align:center;
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.fifth {
+	font-family:arial black;
+	color:white;
+	background:black;
+	background-image:url(../images/5.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+	text-align:center;
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+.last {
+	background-image:url(../images/7.png);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+.pa {
+	display:grid;
+	margin-bottom:10px;
+	grid-gap: 10px;
+	grid-template-columns:1fr 1fr;
+}
+.ap {
+	display:grid;
+	margin-bottom:10px;
+	grid-gap: 10px;
+	grid-template-columns:1fr 1fr;
+}
+.apa {
+	display:grid;
+	margin-bottom:10px;
+	grid-gap: 10px;
+	grid-template-columns:1fr 1fr;
+}
+.pap {
+	display:grid;
+	margin-bottom:10px;
+	grid-gap: 10px;
+	grid-template-columns:1fr 1fr;
+}
+.pb {
+	display:grid;
+	margin-bottom:10px;
+	grid-gap: 10px;
+	grid-template-columns:1fr 1fr;
+}
+.bp {
+	display:grid;
+	grid-gap: 10px;
+	margin-bottom:10px;
+	grid-template-columns:1fr 1fr;
+}
+
+.footer {
+	color:white;
+	text-align:center;
+	text-decoration:none;
+	background-image:url(../images/as.jpg);
+	background-position:center;
+    background-size: cover;
+    background-repeat:no-repeat;
+	background-attachment:fixed;
+}
